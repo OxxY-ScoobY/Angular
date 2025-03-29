@@ -1,0 +1,22 @@
+.navbar {
+    background-color: hsl(50, 100%, 50%);
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar a {
+    color: rgb(9, 6, 6);
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 16px;
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+}
+.navbar img
+{
+   height: 50px;
+}
